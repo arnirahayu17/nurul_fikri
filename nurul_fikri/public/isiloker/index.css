@@ -1,0 +1,25 @@
+.judul{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.form{
+    margin-left: 2cm;
+    margin-right: 2cm;
+    background-color: bisque;
+    padding-bottom: 1cm;
+    border-bottom-width: 5px;
+    margin-bottom: 1px;
+
+}
+.breadcrumb{
+    background-color: white;
+    justify-content: flex-end;
+    padding-bottom: 20px;
+}
+.breadcrumb-item{
+    padding-right: 10px;
+    border: thin;
+    border-top: transparent;
+    border-left: transparent;
+    border-bottom: transparent;
+}
